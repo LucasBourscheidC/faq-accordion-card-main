@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here]()
 - Live Site URL: [live site](https://lucasbourscheidc.github.io/faq-accordion-card-main/)
 
 ## My process
